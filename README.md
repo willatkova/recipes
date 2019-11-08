@@ -3,7 +3,7 @@
 Welcome To Will's World Famous Recipes!
 #### Mostly stolen from his mom
 ---
-- [ ] Fudge
+- [x] Fudge
 - [ ] Melktert
 - [ ] Scones
 - [ ] Spoon Lamb
