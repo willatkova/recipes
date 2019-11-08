@@ -1,7 +1,6 @@
 ### Fudge
 ---
 #### Ingredients
-
 - 1 Can Condensed Milk
 - 1 Can Milk
 - 1 Kg White Sugar
