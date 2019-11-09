@@ -6,7 +6,7 @@
 - 1 cup water
 - 1 packet Brown Onion soup
 ---
-#### Directiona
+#### Directions
 - Throw Brown Onion soup over chicken
 - Then throw mix over chicken
 - Cook at 180 degrees for an hour

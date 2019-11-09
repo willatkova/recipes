@@ -3,7 +3,7 @@
 #### Ingredients
 
 ---
-#### Directiona
+#### Directions
 
 ---
 ```
@@ -16,7 +16,7 @@ Ingredients
 1/4 tsp Baking Soda 1/4 tsp Cardamon
 2 1/2 tsp Cinnamon 1 3/4 cup Cake Flour 3/4 tsp Nutmeg
 1/2 tsp Salt
-Directiona
+Directions
 Mix butter and sugar
 Add egg and vanilla and mix Add rest of ingredients
 Refrigerate for an hour

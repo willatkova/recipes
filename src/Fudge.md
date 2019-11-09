@@ -9,7 +9,7 @@
 - Dash of Salt
 - 2 Tbls Honey
 ---
-#### Directiona
+#### Directions
 - Add everything, except Vanilla Essence and salt, in a big pot and bring to boil
 - Once boiling, reduce heat and stir with a wooden spoon for 20 minutes
 - Take off the heat and add the Vanilla Essence and salt

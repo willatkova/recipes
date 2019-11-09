@@ -3,7 +3,7 @@
 #### Ingredients
 
 ---
-#### Directiona
+#### Directions
 
 ---
 ```

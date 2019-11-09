@@ -10,7 +10,7 @@
 - 2 Tablespoons Golden Syrup • 2 Tablespoons Water
 - 1⁄2 Teaspoon Bicarb of Soda
 ---
-#### Directiona
+#### Directions
 - Preheat oven to 180°C
 - Line baking tray with cookie paper
 - Combine flour, oats, coconut and sugar into large bowl
