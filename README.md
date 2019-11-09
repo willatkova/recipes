@@ -24,7 +24,7 @@ Welcome to my collection of curated recipes. Some are even mine.
 #### Stolen from my friends
 ---
 - [ ] Bridgette's Butter Cookies
-- [ ] [Jamie-Lee's Speculoos](/src/todo/speculoos.md)
+- [ ] [Jamie-Lee's Speculoos](/src/todo/Speculoos.md)
 - [ ] Janice's Scones
 - [ ] Lourens' ex-wife's Sticky Chicken
 #### Stolen from my mom
