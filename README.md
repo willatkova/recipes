@@ -7,7 +7,7 @@ Welcome to my collection of curated recipes. Some are even mine.
 #### Mine
 ---
 - [ ] Butter Chicken
-- [x] Comeback Sauce
+- [x] [Comeback Sauce](/src/ComebackSauce.md)
 - [ ] Curry Mince
 - [ ] Milo Cookies
 - [ ] Spoon Lamb
