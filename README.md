@@ -26,7 +26,7 @@ Welcome to my collection of curated recipes. Some are even mine.
 - [ ] Bridgette's Butter Cookies
 - [ ] [Jamie-Lee's Speculoos](/src/todo/Speculoos.md)
 - [ ] Janice's Scones
-- [ ] Lourens' ex-wife's Sticky Chicken
+- [x] [Lourens' ex-wife's Sticky Chicken](/src/todo/StickyChicken.md)
 #### Stolen from my mom
 ---
 - [ ] Banana Bread
