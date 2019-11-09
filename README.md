@@ -3,7 +3,7 @@
 Welcome to my collection of curated recipes. Some are even mine.
 #### Stolen from Australia
 ---
-- [ ] Anzac Biscuits
+- [x] [Anzac Biscuits](/src/Anzacs.md)
 #### Mine
 ---
 - [ ] Butter Chicken
