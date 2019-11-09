@@ -3,6 +3,6 @@
 #### Ingredients
 
 ---
-#### Method
+#### Directiona
 
 ---

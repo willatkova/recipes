@@ -10,7 +10,7 @@
 - 2 Tablespoons Golden Syrup • 2 Tablespoons Water
 - 1⁄2 Teaspoon Bicarb of Soda
 ---
-#### Method
+#### Directiona
 - Preheat oven to 180°C
 - Line baking tray with cookie paper
 - Combine flour, oats, coconut and sugar into large bowl
@@ -18,4 +18,5 @@
 - Add to oat mixture and combine well
 - Roll level tablespoons into balls and place on tray
 - Bake for 12 minutes
+- Don't call them cookies, the Ozzies hate that
 ---

@@ -12,7 +12,7 @@
 - 1 teaspoon garlic powder
 - 1 teaspoon paprika
 ---
-#### Method
+#### Directiona
 - Mix it all together
 - Dip EVERYTHING in it
 ---
