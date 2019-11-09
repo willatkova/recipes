@@ -8,6 +8,6 @@
 |500ml|Buttermilk|
 ---
 |Directions|
-|--|--|
+|--|
 |Mix all ingredients together, rubbing in butter|
 |Bake at 200 C for 10 – 12 minutes|
