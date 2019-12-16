@@ -6,6 +6,7 @@ Welcome to my collection of curated recipes. Some are even mine.
 - [x] [Anzac Biscuits](/src/Anzacs.md)
 #### Mine
 ---
+- [ ] [Apple Crumble](/src/AppleCrumble.md)
 - [ ] Butter Chicken
 - [x] [Comeback Sauce](/src/ComebackSauce.md)
 - [ ] Curry Mince
@@ -15,7 +16,7 @@ Welcome to my collection of curated recipes. Some are even mine.
 #### Stolen from my dad
 ---
 - [ ] Bread Pudding
-- [ ] Dad's Pancakes
+- [x] [Dad's Pancakes](/src/Pancakes.md)
 - [ ] Souskleitjies
 #### Stolen from my family
 ---
