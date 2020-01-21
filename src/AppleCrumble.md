@@ -7,8 +7,6 @@
 - 1⁄2 Cup Castor Sugar
 - 100gr Cold Butter
 - Pinch of Salt
-
 ---
 #### Directions
-
 ---
