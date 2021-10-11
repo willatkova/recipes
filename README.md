@@ -9,18 +9,18 @@ Welcome to my collection of curated recipes. Some are even mine.
 ---
 - [ ] [Apple Crumble](/src/AppleCrumble.md)
 - [ ] [Butter Chicken](/src/ButterChicken.md)
-- [x] [Comeback Sauce](/src/ComebackSauce.md)
 - [ ] [Curry Mince](/src/CurryMince.md)
 - [ ] [Milo Cookies](/src/MiloCookies.md)
 - [ ] [Spoon Lamb](/src/SpoonLamb.md)
+- [x] [Comeback Sauce](/src/ComebackSauce.md)
 - [x] [Root Beer](/src/RootBeer.md)
 - [x] [Shandy](/src/Shandy.md)
 ---
 #### Stolen from my dad
 ---
 - [ ] [Bread Pudding](/src/BreadPudding.md)
-- [x] [Dad's Pancakes](/src/Pancakes.md)
 - [ ] [Souskleitjies](/src/Souskleitjies.md)
+- [x] [Dad's Pancakes](/src/Pancakes.md)
 ---
 #### Stolen from my family
 ---
@@ -42,6 +42,7 @@ Welcome to my collection of curated recipes. Some are even mine.
 - [ ] [Kudu Pie](/src/KuduPie.md)
 - [ ] [Mom's Flapjacks](/src/Flapjacks.md)
 - [ ] [Peppermint Crisp Tart](/src/PeppermintCrispTart.md)
+- [ ] [Pumpkin Fritters](/src/PumpkinFritters.md)
 - [x] [Fudge](/src/Fudge.md)
 ---
 
