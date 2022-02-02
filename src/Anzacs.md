@@ -7,7 +7,8 @@
 - 1⁄2 Cup Brown sugar
 - 1⁄4 Cup Caster Sugar
 - 125 Gram Butter
-- 2 Tablespoons Golden Syrup • 2 Tablespoons Water
+- 2 Tablespoons Golden Syrup 
+- 2 Tablespoons Water
 - 1⁄2 Teaspoon Bicarb of Soda
 ---
 #### Directions
