@@ -18,6 +18,5 @@
 - Melt butter, golden syrup and water in a small saucepan over medium heat • Stir in bicarb of soda until it expands
 - Add to oat mixture and combine well
 - Roll level tablespoons into balls and place on tray
-- Bake for 12 minutes
-- Don't call them cookies, the Ozzies hate that
+- Bake for 9 minutes
 ---
