@@ -12,6 +12,7 @@ Welcome to my collection of curated recipes. Some are even mine.
 - [ ] [Curry Mince](/src/CurryMince.md)
 - [ ] [Jamie-Lee's Speculoos](/src/todo/Speculoos.md)
 - [ ] [Janice's Scones](/src/Scones.md)
+- [x] [Korean Beef](/src/KoreanBeef.md)
 - [ ] [Kudu Pie](/src/KuduPie.md)
 - [ ] [Margie Blueberry Drizzle](/src/MargieBlueberryDrizzle.md)
 - [ ] [Maria's Melktert](/src/Melktert.md)
