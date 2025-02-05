@@ -31,6 +31,8 @@ Welcome to my collection of curated recipes. Some are even mine.
 - [x] [Root Beer](/src/RootBeer.md)
 - [x] [Shandy](/src/Shandy.md)
 - [x] [Red Lentil Dal Curry](/src/RedLentilDalCurry.md)
+
+- [Sweet Potato Cake](/src/sweet-potato-cake.md)
 ---
 
 
