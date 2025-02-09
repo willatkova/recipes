@@ -2,9 +2,9 @@
 ---
 ||Ingredients|Prepare|
 |--|--|--|
-|4 cups|Self–Raising Flour ||
+|500g|Self–Raising Flour ||
 |125g|Butter||
-|1/2 cup|Sugar||
+|100g|Sugar||
 |500ml|Buttermilk||
 ---
 |Directions|Done|
