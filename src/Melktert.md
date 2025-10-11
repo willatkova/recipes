@@ -16,7 +16,7 @@
 
 
 
----
+
 #### Directions - Crust
 
 ---
@@ -27,9 +27,6 @@
 
 
 
-
-Meng goed tot deeg en druk in tertborde (strooi met bietjie meel
-sodat dit nie aan jou vingers vassit nie)
 
 
 Vulsel:
