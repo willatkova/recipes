@@ -10,10 +10,8 @@
 - Pinch of Salt
 ---
 #### Directions - Crust
-```
-Mix well until it forms a dough.
-Press into the tart plate.
-```
+- Mix well until it forms a dough.
+- Press into the tart plate.
 ---
 #### Ingredients - Custard
 
