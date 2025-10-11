@@ -1,5 +1,5 @@
 ### Melktert 
-Makes 2 tarts
+#### Makes 2 tarts
 ---
 #### Ingredients - Crust
 - 125g Soft Butter
@@ -9,12 +9,18 @@ Makes 2 tarts
 - 1/4 Tsp Baking Powder
 - Pinch of Salt
 ---
+#### Directions - Crust
+```
+Mix well until it forms a dough.
+Press into the tart plate.
+```
+---
 #### Ingredients - Custard
 
 
 
 ---
-#### Directions
+#### Directions - Crust
 
 ---
 
@@ -25,17 +31,10 @@ Makes 2 tarts
 
 
 
-Ouma Maria s e melktert
-(Maak 2 terte)
-Kors: •
-125 g r sagte marg
-1 eier
-3 opgehoopte teelepels suiker
-1 koppie meel
-#teelepel bakpoeier
-knippie sout
 Meng goed tot deeg en druk in tertborde (strooi met bietjie meel
 sodat dit nie aan jou vingers vassit nie)
+
+
 Vulsel:
 Laat 6 kop melk solank stadig warm word op stoof
 Skei 4 x-groot eiers e n klits witte styf
