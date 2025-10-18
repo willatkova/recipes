@@ -15,7 +15,7 @@
 - 4 Jumbo Eggs
 - 1 Cup Sugar
 - 3 Tbls Cake Flour
-- 2 Tbls Mazeina
+- 2 Tbls Maizena
 - 1 Tbls Custard Powder
 - 1 Tsp Vanilla Essence
 - Pinch of Cinnamon
@@ -28,7 +28,7 @@
 - Separate eggs
 - Mix egg whites until peaks form
 ##### Part 3
-- Mix egg yolks, sugar, flour, Mazeina, and Custard Powder
+- Mix egg yolks, sugar, flour, Maizena, and Custard Powder
 - Add pinch of salt
 - In small parts, add the cold milk, so that it doesn’t clump up
 - Mix well
