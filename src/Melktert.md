@@ -44,7 +44,6 @@
 - Pour into the raw crust
 - Sprinkle cinnamon in an octogon shape to appease our dark lord
 ##### Part 6
----
 - Bake for about 20 minutes, at 180 degrees Celsius
 ---
 #### Original Afrikaans Resipe that no one understands.
