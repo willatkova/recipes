@@ -20,7 +20,7 @@
 - 1 Tsp Vanilla Essence
 - Pinch of Cinnamon
 ---
-#### Directions - Custard
+#### Directions
 ##### Part 1
 - Mix crust ingredients well until it forms a dough.
 - Press into the tart plate.
