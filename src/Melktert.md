@@ -13,44 +13,39 @@
 - Press into the tart plate.
 ---
 #### Ingredients - Custard
-
-
-
-
-#### Directions - Crust
-
+- 6 Cups Milk - Heated
+- 1 Cup Milk - Cold
+- 4 Jumbo Eggs
+- 1 Cup Sugar
+- 3 Tbls Cake Flour
+- 2 Tbls Mazeina
+- 1 Tbls Custard Powder
+- 1 Tsp Vanilla Essence
+- Pinch of Cinnamon
+#### Directions - Custard
+##### Part 1
+- Separate eggs
+- Mix egg whites until peaks form
+##### Part 2
+- Mix egg yolks, sugar, flour, Mazeina, and Custard Powder
+- Add pinch of salt
+- In small parts, add the cold milk, so that it doesn’t clump up
+- Mix well
+##### Part 3
+- Let the milk heat slowly on the stove
+- Before it boils, add the cold mixture
+- Stir the mixture with a wooden spoon, until it boils once
+- Remove from stove
+##### Part 4
+- Add Vanilla Essense to the mixture
+- Add the egg white
+- Mix till combined
+##### Part 5
+- Pour into the raw crust
+- Sprinkle cinnamon in an octogon shape to appease our dark lord
+##### Part 6
 ---
-
-
-
-
-
-
-
-
-
-Vulsel:
-Laat 6 kop melk solank stadig warm word op stoof
-Skei 4 x-groot eiers e n klits witte styf
-Meng goed saam:
-Die 4 Eiergeie
-1 kop suiker
-3 gelyk eetlepels meel = 3 x 30ml = 90 ml.
-(60m)) 1 opgehoopte eetlepel Mazeina & ‡ opgehoopte eetlepel vlapoeier (30ml)
-1 kop koue melk (meng bietjie-vir-biet jie b y sodat dit nie klonte
-maak nie)
-knippie sout
-Klits goed en voeg dan by warm melk wat amper kook
-Roer aanhoudend met houtlepel totdat die mengsel 1 keer opkook
-e n verwyder van stoof
-Voeg nou 1 t vanilla essence b y en ook die styfgeklopte eierwitte
-Klits tot goed ingemeng en gooi in rou korse en strooi pypkaneel
-oor
-Bak teen 180 grade vir omtrent 20 min (totdat kors ligbruin is en
-die vulsel 2-3 cm bokant kors gerys het en lyk o f dit "bewe"
-
-
-
-
-
+- Bake for about 20 minutes, at 180 degrees Celsius
+---
+#### Original Afrikaans Resipe that no one understands.
 [Melktert Resep.pdf](https://github.com/willatkova/recipes/files/3826724/Melktert.Resep.pdf)
