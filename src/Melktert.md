@@ -1,5 +1,4 @@
 ### Melktert 
-#### Makes 2 tarts
 ---
 #### Ingredients - Crust
 - 125g Soft Butter
@@ -9,7 +8,7 @@
 - 1/4 Tsp Baking Powder
 - Pinch of Salt
 ---
-#### Ingredients - Custard
+#### Ingredients - Custard - 2 Tarts
 - 6 Cups Milk - Heated
 - 1 Cup Milk - Cold
 - 4 Jumbo Eggs
@@ -18,6 +17,17 @@
 - 2 Tbls Maizena
 - 1 Tbls Custard Powder
 - 1 Tsp Vanilla Essence
+- Pinch of Cinnamon
+
+#### Ingredients - Custard - 1 Tart
+- 3 Cups Milk - Heated
+- 1/2 Cup Milk - Cold
+- 2 Jumbo Eggs
+- 1/2 Cup Sugar
+- 1 1/2 Tbls Cake Flour
+- 1 Tbls Maizena
+- 1/2 Tbls Custard Powder
+- 1/2 Tsp Vanilla Essence
 - Pinch of Cinnamon
 ---
 #### Directions

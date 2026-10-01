@@ -28,12 +28,11 @@ Welcome to my collection of curated recipes. Some are even mine.
 - [x] [Fudge](/src/Fudge.md)
 - [x] [Korean Beef](/src/KoreanBeef.md)
 - [x] [Lourens' ex-wife's Sticky Chicken](/src/StickyChicken.md)
+- [x] [Naan Bread - Sourdough](/src/Naan.md)
 - [x] [Red Lentil Dal Curry](/src/RedLentilDalCurry.md)
 - [x] [Root Beer](/src/RootBeer.md)
 - [x] [Shandy](/src/Shandy.md)
 - [x] [Sweet Potato Cake](/src/sweet-potato-cake.md)
-
-- [ ] [Naan Bread - Sourdough](/src/Naan.md)
 
 ---
 

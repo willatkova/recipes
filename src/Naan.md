@@ -6,7 +6,7 @@
 - 60gr Greek Yoghurt
 - 10gr (2tsp) Baking Powder
 - 8gr (1tsp) Salt
-120gr Water - Room Temperature
+- 120gr Water - Room Temperature
 ---
 #### Directions
 - Mix all together
