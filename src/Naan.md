@@ -14,7 +14,7 @@
 - Use a bench scraper to make 6-10 pieces
 - Heat a cast iron pan to medium heat
 - Brush with oil
-- Roll naan out flat
+- Roll naan out flat (+/- 75gr per ball)
 - Put naan in pan, 1 minute or until it bubbles or edges brown
 - Flip and cook on other side
 - Brush naan with butter and sprinkle on garlic
